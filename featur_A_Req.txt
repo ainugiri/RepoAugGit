@@ -1,2 +1,1 @@
-featureA
-featureC
+C
