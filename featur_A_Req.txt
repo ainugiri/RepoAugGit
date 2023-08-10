@@ -1,10 +1,1 @@
-* main
-
-* featureB
-
-* main
-
-* main
-
-* main
-
+featureA
